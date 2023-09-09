@@ -114,7 +114,7 @@ h6,
 
 .top-bar {
     height: 45px;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid rgba(53, 94, 252, .07);
 }
 
 .navbar .dropdown-toggle::after {
