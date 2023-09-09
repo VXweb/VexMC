@@ -543,6 +543,12 @@ nav a:hover {
 }
 /*** info end   ***/
 
+/*** start info bold ***/
+.PowerSMP b {
+    color: green;
+}
+/*** end info bold ***/
+
 
 /*** Footer ***/
 .footer .btn.btn-link {
